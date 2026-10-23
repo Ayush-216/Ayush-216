@@ -73,9 +73,7 @@
 
 <h3>Data, Computer Vision &amp; Developer Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,opencv,git,jenkins,postman" alt="Pandas, OpenCV, Git, Jenkins, Postman" />
-  <br/>
-  <img src="https://img.shields.io/badge/Puppeteer-Automation-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+  <img src="https://skillicons.dev/icons?i=pandas,opencv,git,jenkins,postman,puppeteer" alt="Pandas, OpenCV, Git, Jenkins, Postman, Puppeteer" />
 </p>
 
 <hr/>
@@ -91,10 +89,6 @@
     <img src="https://img.shields.io/badge/Explore-Readify--AI-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Readify-AI" />
   </a>
 </p>
-
-<blockquote>
-  <p>Add a short description, key features, and the technologies used here once you're ready to showcase the project in more detail.</p>
-</blockquote>
 
 <hr/>
 
