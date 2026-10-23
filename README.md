@@ -1,8 +1,13 @@
 <div align="center">
 
-Hi 👋, I'm Ayush Pandey
-Software Developer · Full-Stack Development · Generative AI
-I enjoy solving problems, building useful products, and exploring how Full-Stack Development, System Design, and Generative AI can come together to create impactful solutions.
+<h1>Hi 👋, I'm Ayush Pandey</h1>
+
+<h3>Software Developer · Full-Stack Development · Generative AI</h3>
+
+<p>
+  I enjoy solving problems, building useful products, and exploring how <strong>Full-Stack Development, System Design, and Generative AI</strong> can come together to create impactful solutions.
+</p>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ayush-216&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ayush-216?label=Followers&style=for-the-badge" alt="GitHub followers" />
@@ -16,13 +21,22 @@ I enjoy solving problems, building useful products, and exploring how Full-Stack
 
 </div>
 
-🚀 About Me
-- 🔭 Currently building Readify-AI
-- 🌱 Currently learning System Design, Advanced DSA, Agentic AI, and Generative AI
-- 💡 Interested in problem-solving, full-stack engineering, and AI-powered applications
-- ⚡ Fun fact: Part-time gamer 🎮
-- 🤝 Always interested in learning, collaborating, and building things that make a difference
-🌐 Connect with Me
+<hr/>
+
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>🔭 Currently building <a href="https://github.com/Ayush-216/Readify-AI"><strong>Readify-AI</strong></a></li>
+  <li>🌱 Currently learning <strong>System Design, Advanced DSA, Agentic AI, and Generative AI</strong></li>
+  <li>💡 Interested in <strong>problem-solving, full-stack engineering, and AI-powered applications</strong></li>
+  <li>⚡ Fun fact: <strong>Part-time gamer 🎮</strong></li>
+  <li>🤝 Always interested in learning, collaborating, and building things that make a difference</li>
+</ul>
+
+<hr/>
+
+<h2>🌐 Connect with Me</h2>
+
 <p align="left">
   <a href="https://linkedin.com/in/ayushpandey2k27" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,54 +52,77 @@ I enjoy solving problems, building useful products, and exploring how Full-Stack
   </a>
 </p>
 
-🧰 Languages, Frameworks & Tools
-Languages
+<hr/>
+
+<h2>🧰 Languages, Frameworks &amp; Tools</h2>
+
+<h3>Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" alt="C, C++, Java, Python, JavaScript, HTML, CSS" />
 </p>
 
-Frontend & State Management
+<h3>Frontend &amp; State Management</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind" alt="React, Redux, Tailwind CSS" />
 </p>
 
-Backend, Databases & Services
+<h3>Backend, Databases &amp; Services</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Node.js, Express, MongoDB, MySQL, Firebase" />
 </p>
 
-Data, Computer Vision & Developer Tools
+<h3>Data, Computer Vision &amp; Developer Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,opencv,git,jenkins,postman" alt="Pandas, OpenCV, Git, Jenkins, Postman, Puppeteer" />
+  <img src="https://skillicons.dev/icons?i=pandas,opencv,git,jenkins,postman" alt="Pandas, OpenCV, Git, Jenkins, Postman" />
+  <br/>
+  <img src="https://img.shields.io/badge/Puppeteer-Automation-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
 </p>
 
-🌟 Featured Project
-📚 Readify-AI
-An AI-focused project currently in development.
+<hr/>
 
-Add a short description, key features, and the technologies used here once you're ready to showcase the project in more detail.
+<h2>🌟 Featured Project</h2>
 
-📊 GitHub Analytics
+<h3>📚 <a href="https://github.com/Ayush-216/Readify-AI">Readify-AI</a></h3>
+
+<p>An AI-focused project currently in development.</p>
+
+<p>
+  <a href="https://github.com/Ayush-216/Readify-AI">
+    <img src="https://img.shields.io/badge/Explore-Readify--AI-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Readify-AI" />
+  </a>
+</p>
+
+<blockquote>
+  <p>Add a short description, key features, and the technologies used here once you're ready to showcase the project in more detail.</p>
+</blockquote>
+
+<hr/>
+
+<h2>📊 GitHub Analytics</h2>
+
 <div align="center">
-
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-216&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-216&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-
-
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Ayush-216&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-216&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
 </div>
 
-🎯 Currently Focusing On
-- 🧠 Strengthening problem-solving and Advanced DSA
-- 🏗️ Learning System Design and scalable application architecture
-- 🤖 Exploring Generative AI and agentic systems
-- 🛠️ Building and improving practical full-stack projects
-<div align="center">
+<hr/>
 
-💬 Thanks for stopping by!
-Keep learning. Keep building. Keep shipping. 🚀
+<h2>🎯 Currently Focusing On</h2>
+
+<ul>
+  <li>🧠 Strengthening problem-solving and <strong>Advanced DSA</strong></li>
+  <li>🏗️ Learning <strong>System Design</strong> and scalable application architecture</li>
+  <li>🤖 Exploring <strong>Generative AI and agentic systems</strong></li>
+  <li>🛠️ Building and improving practical full-stack projects</li>
+</ul>
+
+<hr/>
+
+<div align="center">
+  <h3>💬 Thanks for stopping by!</h3>
+  <p><em>Keep learning. Keep building. Keep shipping.</em> 🚀</p>
 </div>
