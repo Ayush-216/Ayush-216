@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">A passionate software developer with a keen interest in problem-solving, full-stack development, and Generative AI, constantly learning and building impactful solutions through code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-216&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-216" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-216&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-216" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-216" alt="ayush-216" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush-216" alt="Ayush-216" /></a> </p>
 
 - 🔭 I’m currently working on [Readify-Ai](https://github.com/Ayush-216/Readify-AI)
 
