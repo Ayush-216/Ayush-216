@@ -50,6 +50,9 @@
   <a href="https://www.leetcode.com/ayush_pandey_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://atcoder.jp/users/Ayush216" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
+</a>
 </p>
 
 <hr/>
